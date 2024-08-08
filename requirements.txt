@@ -1,0 +1,7 @@
+gradio==4.40.0
+imageio==2.34.2
+numpy==2.0.1
+opencv_python_headless==4.10.0.84
+Pillow==10.4.0
+SAM_2==1.0
+torch==2.4.0
